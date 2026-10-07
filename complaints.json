@@ -1,0 +1,10 @@
+[
+    {
+        "complaintId": "C001",
+        "rollNo": 3,
+        "category": "infrastructure",
+        "text": "3rd floor water cooler not working",
+        "status": "Open",
+        "createdAt": "2026-10-07 14:19:52"
+    }
+]

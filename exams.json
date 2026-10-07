@@ -1,0 +1,24 @@
+[
+    {
+        "course": "BCA",
+        "semester": 5,
+        "subject": "DBMS",
+        "examDate": "2026-10-20",
+        "room": "Lab 2"
+    },
+    {
+        "course": "BCA",
+        "semester": 5,
+        "subject": "DSA",
+        "examDate": "2026-10-23",
+        "room": "Room 304"
+    },
+    {
+        "course": "BCA",
+        "semester": 5,
+        "subject": "Python",
+        "examDate": "2026-10-26",
+        "room": "Room 401"
+    }
+
+]

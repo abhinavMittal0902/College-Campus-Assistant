@@ -1,0 +1,56 @@
+[
+    {
+        "rollNo": 1,
+        "subject": "DBMS",
+        "totalClasses": 40,
+        "attended": 32
+    },
+    {
+        "rollNo": 1,
+        "subject": "DSA",
+        "totalClasses": 45,
+        "attended": 36
+    },
+    {
+        "rollNo": 1,
+        "subject": "Python",
+        "totalClasses": 50,
+        "attended": 42
+    },
+    {
+        "rollNo": 2,
+        "subject": "Python",
+        "totalClasses": 40,
+        "attended": 34
+    },
+    {
+        "rollNo": 2,
+        "subject": "DBMS",
+        "totalClasses": 40,
+        "attended": 30
+    },
+    {
+        "rollNo": 2,
+        "subject": "DSA",
+        "totalClasses": 45,
+        "attended": 38
+    },
+    {
+        "rollNo": 3,
+        "subject": "DBMS",
+        "totalClasses": 40,
+        "attended": 35
+    },
+    {
+        "rollNo": 3,
+        "subject": "DSA",
+        "totalClasses": 45,
+        "attended": 40
+    },
+    {
+        "rollNo": 3,
+        "subject": "Python",
+        "totalClasses": 45,
+        "attended": 40
+    }
+]

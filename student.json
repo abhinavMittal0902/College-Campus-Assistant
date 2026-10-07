@@ -1,0 +1,25 @@
+[
+    {
+        "name" : "Abhinav MIttal ji",
+        "rollNo" : 1,
+        "course" : "BCA",
+        "semester" : 5,
+        "email" : "abhinavmittal0902@gamil.com"
+    },
+
+    {
+        "name" : "Bhanu mati",
+        "rollNo" : 3,
+        "course" : "BCA",
+        "semester" : 5,
+        "email" : "ayushigupta@gmail.com"
+    },
+
+    {
+        "name": "Alok Mittal",
+        "rollNo": 2,
+        "course": "BCA",
+        "semester": 5,
+        "email": "abhinav@example.com"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "rollNo": 1,
+        "semester": 5,
+        "totalFee": 60000,
+        "paid": 45000,
+        "dueDate": "15-10-2026",
+        "status": "partial"
+    },
+
+    {
+        "rollNo": 2,
+        "semester": 5,
+        "totalFee": 60000,
+        "paid": 60000,
+        "dueDate": "15-10-2026",
+        "status": "paid"
+    },
+
+    {
+        "rollNo": 3,
+        "semester": 5,
+        "totalFee": 60000,
+        "paid": 0,
+        "dueDate": "15-10-2026",
+        "status": "Neel"
+    }
+
+]
